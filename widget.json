@@ -1,66 +1,16 @@
 {
- "date": "2026-11-09",
- "generated": "2026-11-09T01:19:14-05:00",
- "tasks": [
-  {
-   "id": "bb-helpdesk-1026",
-   "label": "Call the WP IT Help Desk (973-720-4357) about your Blackboard guest login",
-   "abc": "A",
-   "cat": "Teaching",
-   "done": false
-  },
-  {
-   "id": "wayne-frontline",
-   "label": "Set up Frontline (sub job system) and note your clock in/out ID and PIN",
-   "abc": "A",
-   "cat": "Teaching",
-   "done": false
-  },
-  {
-   "id": "rec-lauren@2026-11-09",
-   "label": "Send Lauren your weekly update",
-   "abc": "B",
-   "cat": null,
-   "done": false
-  },
-  {
-   "id": "mw8ro1qyskdia",
-   "label": "Clean up",
-   "abc": "B",
-   "cat": null,
-   "done": false
-  },
-  {
-   "id": "rec-y-mon@2026-11-09",
-   "label": "YMCA",
-   "abc": "C",
-   "cat": "Health",
-   "done": false
-  },
-  {
-   "id": "rec-dealers@2026-11-09",
-   "label": "Dealers Choice",
-   "abc": "R",
-   "cat": null,
-   "done": false
-  },
-  {
-   "id": "mw8gwi7527g1a",
-   "label": "Additional meeting for Tuesday.",
-   "abc": "R",
-   "cat": null,
-   "done": false
-  }
- ],
+ "date": ".",
+ "generated": "2026-11-09T06:22:02-05:00",
+ "tasks": [],
  "tracker": {
   "label": "Meeting Tracker",
   "count": 10,
   "goal": 90
  },
  "openSlots": {
-  "A": 0,
-  "B": 2,
-  "C": 1,
-  "R": 0
+  "A": 2,
+  "B": 4,
+  "C": 2,
+  "R": 1
  }
 }
